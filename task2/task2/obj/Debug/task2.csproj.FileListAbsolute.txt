@@ -1,0 +1,10 @@
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\bin\Debug\task2.exe.config
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\bin\Debug\task2.exe
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\bin\Debug\task2.pdb
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\obj\Debug\task2.Form1.resources
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\obj\Debug\task2.Properties.Resources.resources
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\obj\Debug\task2.exe
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task2\task2\obj\Debug\task2.pdb
